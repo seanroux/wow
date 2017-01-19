@@ -1,0 +1,22 @@
+{
+  "name": "seanroux/wow",
+  "type": "library",
+  "license": "MIT",
+  "authors": [{
+    "name": "Sean",
+    "email": "sean@mytimeslot.co.za",
+    "homepage": "https://github.com/seanroux",
+    "role": "Creator"
+    }],
+    "description": "Cool library to use alongside doge",
+    "keywords": ["wow","sean","roux","doge"],
+    "require-dev": {
+      "phpunit/phpunit": "~5.0"
+    },
+    "require": {},
+    "autoload": {
+      "psr-4": {
+        "SeanRoux\\Wow\\Much\\Doge\\": "src/"
+      }
+    }
+}
