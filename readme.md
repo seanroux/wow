@@ -1,1 +1,1 @@
-# Testing Package Control - DO NOT USE THIS PACKAGE.
+# Testing Package Usage - DO NOT USE THIS PACKAGE.
